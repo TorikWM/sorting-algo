@@ -1,0 +1,14 @@
+ALGORITHM ArraySolution
+VAR
+    sum : INTEGER
+    arr1,arr2: Array
+    
+BEGIN
+    FOR i FROM 0 TO arr1.length STEP 1  DO
+        IF (conditon) THEN
+            set_instructions
+        ELSE
+            set_instructions
+        END_IF
+    END_FOR
+END
